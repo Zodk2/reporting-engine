@@ -33,7 +33,7 @@ A commonly used parameter in Odoo is *--disable-smart-shrinking*, that will
 disable the automatic resizing of the PDF when converting. This is
 important when you intend to have a layout that conforms to certain alignment.
 It is very common whenever you need to conform the PDF to a predefined
-layoyut (e.g. checks, official forms,...).
+layout (e.g. checks, official forms,...).
 
 **Table of contents**
 
